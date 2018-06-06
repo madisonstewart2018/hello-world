@@ -1,2 +1,5 @@
 # hello-world
-Storage of coding 
+
+Hello! 
+I am Madison. I study mathematics at Texas Tech University. 
+I graduate in Decemeber! 
